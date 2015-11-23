@@ -1,5 +1,8 @@
        ------------------------------------
        # Database Benchmark changelog
+
+       * ADDED: DBMS Linter SQL Server
+
        ------------------------------------
        ver. 3.0.0 (2015-06-22)
        
